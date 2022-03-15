@@ -1,4 +1,4 @@
-#UPDATE TO ORIGINAL WORK
+# UPDATE TO ORIGINAL WORK
 This package has been updated to deploy to Azure Database for MySQL Server Flexible server.  Powershell script is included to create the database and load data.
 
 You must update the parameters in the CreateAndLoad.ps file to contain your servername, admin user and password, as well as the directory path to where the scripts are stored.
